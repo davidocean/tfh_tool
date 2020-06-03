@@ -1,0 +1,11 @@
+LON_MIN="lon_min"
+LAT_MIN="lat_min"
+LON_MAX="lon_max"
+LAT_MAX="lat_max"
+LON_MIN_DD="lon_min_DD"
+LAT_MIN_DD="lat_min_DD"
+LON_MAX_DD="lon_max_DD"
+LAT_MAX_DD="lat_max_DD"
+SCALE_CN={"A":"百万","B":"50万","C":"25万","D":"10万","E":"5万","F":"2万5","G":"1万","H":"5千","I":"2千","J":"1千","K":"5百"}
+BANBEN_INFO="图幅小工具\n版本号：V1.0\n制作公司：北京星宇坤和信息技术有限公司\n制作人：戴国威\n更新时间：2020-06-03"
+HELP_INFO="功能：\n1.通过图幅号获取四角坐标。\n2.通过经纬度获取到个比例尺图幅号。\n3.通过度分秒转化为十进制数字。 \n4.通过十进制数字转化为度分秒。"
